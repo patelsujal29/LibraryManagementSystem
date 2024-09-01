@@ -16,11 +16,14 @@ View Available Books
 
 <h1>
   To Compile code:<br><br>
-  <b>
+</h1>
+  <h4><b>
     javac LibraryManagementSystem/Book.java LibraryManagementSystem/Library.java LibraryManagementSystem/LibraryManagementSystem.java<br><br>
-  </b>
-  to RUN LibraryManagementSystem.java:<br><br>
-  <b>
-    java LibraryManagementSystem.LibraryManagementSystem<br>
-  </b>
+  </h4></b>
 <h1>
+  To RUN LibraryManagementSystem.java:<br><br>
+</h1> 
+  <h4><b>
+    java LibraryManagementSystem.LibraryManagementSystem<br>
+  </h4></b>
+
