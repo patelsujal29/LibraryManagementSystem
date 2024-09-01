@@ -4,8 +4,8 @@ In this project we are focused on to organise Library and make it's knowledge mo
 <h1>Functions</h1>
 it has all basic fuctions which are
 
-Borrow book \n
-return book \n
-add book \n
+Borrow book <br>
+return book <br>
+add book <br>
 View Available Books
 
